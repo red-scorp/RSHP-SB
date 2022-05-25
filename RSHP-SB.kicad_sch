@@ -6,7 +6,7 @@
 
   (title_block
     (title "RSHP-SB-0010")
-    (date "2022-05-24")
+    (date "2022-05-25")
     (rev "1.0")
     (company "(c) Andriy Golovnya http://redscorp.net")
     (comment 1 "Reflow Soldering Hot Plate - Small Mounting Board")
@@ -1387,7 +1387,7 @@
     (property "Value" "MountingHole" (id 1) (at 144.78 121.9199 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_5.3mm_M5_Pad" (id 2) (at 140.97 120.65 0)
+    (property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad" (id 2) (at 140.97 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 140.97 120.65 0)
@@ -1423,7 +1423,7 @@
     (property "Value" "MountingHole" (id 1) (at 144.78 126.9999 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_5.3mm_M5_Pad" (id 2) (at 140.97 125.73 0)
+    (property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad" (id 2) (at 140.97 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 140.97 125.73 0)
@@ -1659,7 +1659,7 @@
     (property "Value" "MountingHole" (id 1) (at 144.78 137.1599 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_5.3mm_M5_Pad" (id 2) (at 140.97 135.89 0)
+    (property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad" (id 2) (at 140.97 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 140.97 135.89 0)
@@ -1677,7 +1677,7 @@
     (property "Value" "MountingHole" (id 1) (at 144.78 132.0799 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_5.3mm_M5_Pad" (id 2) (at 140.97 130.81 0)
+    (property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad" (id 2) (at 140.97 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 140.97 130.81 0)
@@ -1778,16 +1778,16 @@
       (reference "H11") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.2mm_M2_Pad")
     )
     (path "/3efb45eb-a1cc-4300-85c8-c7f83adc9f7d"
-      (reference "H12") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_5.3mm_M5_Pad")
+      (reference "H12") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad")
     )
     (path "/578f9548-2849-49c1-88c1-08aad6adf0a0"
-      (reference "H13") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_5.3mm_M5_Pad")
+      (reference "H13") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad")
     )
     (path "/f827d236-9ee6-43a7-a617-285ccd803ee7"
-      (reference "H14") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_5.3mm_M5_Pad")
+      (reference "H14") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad")
     )
     (path "/c4ad4b68-2119-41a7-aefb-1c09d3373e77"
-      (reference "H15") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_5.3mm_M5_Pad")
+      (reference "H15") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_4.3mm_M4_Pad")
     )
     (path "/1747e309-d2e2-4752-b7fc-5a3f12028340"
       (reference "H16") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.2mm_M2_Pad")
